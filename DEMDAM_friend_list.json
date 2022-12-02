@@ -1,0 +1,44 @@
+[
+    {
+        "myInformation" : 
+        {
+            "firstName" : "Jazer Zenas",
+            "lastName" : "Demdam",
+            "age" : "21",
+            "address" : "PR-H Block 4 Lot 30, Parc Regency Residences, Pavia, Ungka II, Iloilo City",
+            "contactNumber" : "09455105944",
+            "friendList" : 
+            {
+                "friend1" : 
+                {
+                    "friendName" : "Stephen John Siva",
+                    "friendAge" : "23",
+                    "friendAddress" : "133b Old Railroad, Jaro, Iloilo City",
+                    "friendLikes" : "Movie Series",
+                    "friendDislikes" : "Horror Genres",
+                    "friendFeelings" : "Galit sa lahat"
+                },
+
+                "friend2" :
+                {
+                    "friendName" : "Christopher Rey Benedicto",
+                    "friendAge" : "21",
+                    "friendAddress" : "Mandurriao, De Leon St., Iloilo City",
+                    "friendLikes" : "Taas na score",
+                    "friendDislikes" : "Nubo na score",
+                    "friendFeelings" : "Good like I should"
+                },
+
+                "friend3" : 
+                {
+                    "friendName" : "Keenan Maverick Ho",
+                    "friendAge" : "22",
+                    "friendAddress" : "Roxas City, Capiz",
+                    "friendLikes" : "Si crush",
+                    "friendDislikes" : "Crush ni crush",
+                    "friendFeelings" : "Like a muffin"
+                }
+            }   
+        }
+    }
+]
